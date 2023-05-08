@@ -2,6 +2,8 @@
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
+Data used for this project came from <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">here</a>.
+
 ### Tasks
 1. You create one <a href="https://github.com/mel-fortinsparks/datasciencecoursera-jhrspec/blob/main/getting-and-cleaning-data/project/run_analysis.R">R script called run_analysis.R</a> that does the following. 
 2. Merges the training and the test sets to create one data set.
